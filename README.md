@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 Welcome to scheduler!
 
@@ -14,13 +14,11 @@ To be able to access the project you won't need to install any new tools, just s
 
 Scheduler is essentially a daily planner with time block ready for user input. A user can add an event at a certain time then the block will be color coded to indicate if it's in the past, present or future.
 
-## **License**
-
-This project is released under the MIT License. Feel free to use the challenges and solutions provided here for personal or educational purposes.
-
 ## **Deployed Website Link**
 
-GITHUB LINK
+Repo: git@github.com:nramirez686/Scheduler.git <br/>
+Deployed Application: git@github.com:nramirez686/Scheduler.git
+
 ![Website screenshot](./Assets/Screenshot%202023-08-08%20at%209.11.31%20AM.png)
 
 ## **Badges**

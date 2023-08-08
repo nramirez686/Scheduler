@@ -36,7 +36,7 @@ $(document).ready(function () {
     //calls function afain after description is saved to update css
     updateTimeBlockColors();
   });
-  //created a variable called currentDate to display the date in the following format
+  //created a variable called currentDate to display the date in the following format and added it as text context to the page
   const currentDate = dayjs().format("dddd, MMMM D, YYYY");
   document.getElementById("currentDay").textContent = currentDate;
 });
